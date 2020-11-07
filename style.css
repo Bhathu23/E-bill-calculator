@@ -1,0 +1,32 @@
+.forms{
+  	min-height: 100vh;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 10px;
+}
+
+#form{
+	border-radius: 25px;
+    border: 2px solid black;
+    padding: 20px;
+    width: 500px;
+    height: 250px;
+}
+
+#heading{
+	text-align: center;
+	font-size: 30px;
+}
+
+#button{
+	margin-left: 220px;
+	font-size: 15px;
+}
+
+#YourBill
+{
+	margin-left: 275px;
+	font-size: 15px;
+}
+
