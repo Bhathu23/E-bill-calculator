@@ -1,1 +1,1 @@
-# E-bill-calculator
+# E-bill Calculator
